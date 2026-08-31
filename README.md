@@ -53,19 +53,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinLazcanoO&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 🎓 Educación & Certificaciones
 
 - Ingeniería en Sistemas Computacionales — Especialidad en Hardware, UACH
