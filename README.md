@@ -1,29 +1,22 @@
 <h1 align="center">¡Hola! 👋 Soy Kevin Daniel Lazcano Ortiz</h1>
-<h3 align="center">Software Engineer | QA Automation & Testing Specialist</h3>
+<h3 align="center">Software Engineer | QA Automation como complemento</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=500&lines=Building+reliable+software%2C+one+test+at+a+time;Playwright+%7C+TypeScript+%7C+Vue.js+%7C+Laravel;Menos+deuda+t%C3%A9cnica%2C+m%C3%A1s+calidad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=500&lines=Building+software+that+works%2C+end+to+end;TypeScript+%7C+Vue.js+%7C+Laravel+%7C+Playwright;Menos+deuda+t%C3%A9cnica%2C+m%C3%A1s+calidad" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 Sobre mí
 
-- 🔭 Actualmente trabajo como **Ingeniero QA / Software Engineer** en **Tire Base**, diseñando suites de pruebas E2E automatizadas con Playwright y dando mantenimiento a sistemas críticos como el POS.
-- 🧠 Me especializo en **QA y automatización de pruebas**, pero tengo una base sólida de desarrollo full-stack que me permite entender el código a fondo y encontrar los errores que las pruebas superficiales no ven.
-- 🌱 Profundizando en: estrategias de QA orientadas a riesgo, CI/CD para testing y buenas prácticas para evitar deuda técnica.
-- 🤖 Uso **Claude Code** como apoyo para revisar calidad de código y detectar deuda técnica a tiempo.
-- 📫 Contáctame: **Daniel.lazcano.ortiz@gmail.com**
+- 🔭 Trabajo como **Ingeniero de Software**, desarrollando sistemas completos y creando soluciones a la medida según las necesidades del negocio.
+- 🧠 Me especializo en **desarrollo de software full-stack**; la QA y automatización de pruebas son un complemento que aplico a mi propio trabajo, lo que me permite entender el código a fondo y encontrar errores que las pruebas superficiales no ven.
+- 🌱 Profundizando en: arquitectura de software, buenas prácticas para evitar deuda técnica y estrategias de QA orientadas a riesgo.
+- 📫 Contáctame: **daniel.lazcano.ortiz@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
-
-**Testing & QA**
-
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Lenguajes**
 
@@ -46,6 +39,12 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**QA & Testing (complemento)**
+
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Herramientas**
 
@@ -80,9 +79,7 @@
   <a href="https://linkedin.com/in/kevin-daniel-lazcano-ortiz-2a4b78277" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:Daniel.lazcano.ortiz@gmail.com">
+  <a href="mailto:daniel.lazcano.ortiz@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-<p align="center"><i>📄 <a href="#">Descarga mi CV</a></i></p>
