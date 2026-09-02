@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Kevin Daniel Lazcano Ortiz</h1>
-<h3 align="center">Software Engineer | QA Automation como complemento</h3>
+<h3 align="center">Software Engineer | QA Automation</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=500&lines=Building+software+that+works%2C+end+to+end;TypeScript+%7C+Vue.js+%7C+Laravel+%7C+Playwright;Menos+deuda+t%C3%A9cnica%2C+m%C3%A1s+calidad" alt="Typing SVG" />
